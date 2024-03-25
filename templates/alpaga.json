@@ -1,0 +1,6 @@
+{
+    "description": "Alpaca Template translated to polish.",
+    "prompt_input": "Poniżej znajduje się instrukcja opisująca zadanie, wraz z dodatkowym kontekstem w postaci danych wejściowych. Napisz odpowiednią odpowiedź.\n\n### Instrukcja:\n{instruction}\n\n### Kontekst:\n{input}\n\n### Odpowiedź:\n",
+    "prompt_no_input": "Poniżej znajduje się instrukcja opisująca zadanie. Napisz odpowiednią odpowiedź..\n\n### Instrukcja:\n{instruction}\n\n### Odpowiedź:\n",
+    "response_split": "### Odpowiedź:"    
+}
